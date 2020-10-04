@@ -1,0 +1,1 @@
+{'frogs used': '10', 'labels printed': '17', 'insects found': '6'}

@@ -1,0 +1,1 @@
+{'stars destroyed': '10', 'stars created': '3', 'stars needed': '7'}
