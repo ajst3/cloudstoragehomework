@@ -1,5 +1,7 @@
 Austin Tercha
 
+-source code is in src folder
+
 -boto3 was installed before the screenshot was taken, so the screenshot
 is the output of trying to install it again.
 
